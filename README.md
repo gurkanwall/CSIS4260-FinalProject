@@ -139,6 +139,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For any questions, feedback, or collaboration inquiries, please reach out:
 
-**Name**: [Your Name]  
-**Email**: [your.email@example.com]  
-**GitHub**: [GitHub Profile](https://github.com/yourusername)  
+**Name**: Gurkanwal Singh  
+**Email**: gurkanwalsingh219@gmail.com  
